@@ -11,12 +11,12 @@ st.set_page_config(page_title="💧 Water Potability Predictor", layout="centere
 # Custom CSS for styling
 st.markdown("""
 <style>
-    .main {
-        background-color: #f9fbfc;
-        padding: 2rem;
-        border-radius: 15px;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    }
+    # .main {
+    #     background-color: #f9fbfc;
+    #     padding: 2rem;
+    #     border-radius: 15px;
+    #     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    # }
     .title {
         font-size: 38px;
         font-weight: 800;
